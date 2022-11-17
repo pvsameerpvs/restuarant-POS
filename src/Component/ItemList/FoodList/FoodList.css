@@ -1,0 +1,20 @@
+.FoodItem-container {
+    width: 30%;
+    height: 80vh;
+    padding: 50px;
+    border: 3px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: relative;
+    overflow: scroll;
+    border-radius: 5px;
+    left: 100px;
+    top: 15px;
+}
+
+.FoodItem-container b {
+    font-size: 1.5em;
+    bottom: 20px;
+    left: 80px;
+    position: relative;
+}
